@@ -1,0 +1,16 @@
+{
+  "values": [
+    "qdc_quantum_farming_2:quantum_nature_tree_log_block",
+	"qdc_quantum_farming_2:quantum_nature_tree_leaves_block",
+	"qdc_quantum_farming_2:quantum_food_tree_log_block",
+	"qdc_quantum_farming_2:quantum_food_tree_leaves_block",
+	"qdc_quantum_farming_2:quantum_metal_tree_log_block",
+	"qdc_quantum_farming_2:quantum_metal_tree_leaves_block",
+	"qdc_quantum_farming_2:quantum_gem_tree_log_block",
+	"qdc_quantum_farming_2:quantum_gem_tree_leaves_block",
+	"qdc_quantum_farming_2:quantum_enchanted_tree_log_block",
+	"qdc_quantum_farming_2:quantum_enchanted_tree_leaves_block",
+	"qdc_quantum_farming_2:quantum_potion_tree_log_block",
+	"qdc_quantum_farming_2:quantum_potion_tree_leaves_block"
+  ]
+}

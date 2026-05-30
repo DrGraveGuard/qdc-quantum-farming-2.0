@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "qdc_core_4_5:particle_fragment_potion",
+		  "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+          "count": {
+                  "type": "minecraft:uniform",
+                  "min": 0,
+                  "max": 2
+                }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "qdc_core_4_5:particle_fragment_potion",
+		  "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

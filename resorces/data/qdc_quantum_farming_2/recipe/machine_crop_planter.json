@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "=Q=",
+    "qWq"
+  ],
+  "key": {
+    "#": {
+      "item": "qdc_core_4_5:qdc_machine_screen"
+    },
+    "=": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Q": {
+      "item": "qdc_core_4_5:particles_nature"
+    },
+    "q": {
+      "item": "qdc_core_4_5:qdc_core_quantum_core_wood"
+    },
+    "W": {
+      "item": "minecraft:wooden_hoe"
+    }
+  },
+  "group": "QDC Machines",
+  "result": {
+    "id": "qdc_quantum_farming_2:machine_crop_planter"
+  }
+}

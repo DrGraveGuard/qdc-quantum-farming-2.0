@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#S#",
+    "#Q#"
+  ],
+  "key": {
+    "#": {
+      "item": "qdc_core_4_5:particle_fragment_food"
+    },
+    "S": {
+      "tag": "minecraft:saplings"
+    },
+    "Q": {
+      "item": "qdc_core_4_5:particles_food"
+    }
+  },
+  "group": "Quantum Particle Saplings",
+  "result": {
+    "id": "qdc_quantum_farming_2:quantum_food_sapling"
+  }
+}
