@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "qdc_quantum_farming_2:block/quantum_food_tree_log_block"
+    }
+  }
+}

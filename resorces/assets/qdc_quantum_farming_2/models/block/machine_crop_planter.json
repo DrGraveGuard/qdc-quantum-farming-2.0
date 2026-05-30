@@ -1,0 +1,15 @@
+{
+	"parent": "block/cube",
+
+      "textures": {
+        "down":  "qdc_quantum_farming_2:block/machine_side",
+        "up":    "qdc_quantum_farming_2:block/machine_side",
+        "north": "qdc_quantum_farming_2:block/crop_planter_north",
+        "south": "qdc_quantum_farming_2:block/machine_side_3",
+        "west":  "qdc_quantum_farming_2:block/machine_side_3",
+        "east":  "qdc_quantum_farming_2:block/machine_side_3",
+         "particle" : "qdc_quantum_farming_2:block/machine_side"
+      }
+    
+  
+}

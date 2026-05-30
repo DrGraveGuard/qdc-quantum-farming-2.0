@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=north": { "model": "qdc_quantum_farming_2:block/machine_tree_harvester" },
+        "facing=south": { "model": "qdc_quantum_farming_2:block/machine_tree_harvester", "y": 180 },
+        "facing=west":  { "model": "qdc_quantum_farming_2:block/machine_tree_harvester", "y": 270 },
+        "facing=east":  { "model": "qdc_quantum_farming_2:block/machine_tree_harvester", "y": 90 }
+        
+       
+    }
+}

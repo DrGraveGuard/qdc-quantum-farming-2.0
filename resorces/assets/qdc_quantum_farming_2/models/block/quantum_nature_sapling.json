@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "qdc_quantum_farming_2:block/quantum_nature_sapling"
+  }
+}

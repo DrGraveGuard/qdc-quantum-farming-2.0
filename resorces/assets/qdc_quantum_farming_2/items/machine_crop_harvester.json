@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "qdc_quantum_farming_2:item/machine_crop_harvester"
+    }
+}

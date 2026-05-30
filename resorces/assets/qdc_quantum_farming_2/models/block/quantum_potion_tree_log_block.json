@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "qdc_quantum_farming_2:block/quantum_potion_tree_log_block"
+  }
+}

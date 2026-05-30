@@ -1,0 +1,35 @@
+{
+	"creativetab.qdc_quantum_farming_2.qdc_quantum_farming_2_creative_tab": "QDC Quantum Farming 2.0",
+	
+	
+	
+	
+	
+	
+	
+	"item.qdc_quantum_farming_2.quantum_seed": "Quantum Seed",
+	
+	"item.qdc_quantum_farming_2.quantum_nature_sapling": "Nature Particle Sapling",
+	"item.qdc_quantum_farming_2.quantum_food_sapling": "Food Particle Sapling",
+	"item.qdc_quantum_farming_2.quantum_metal_sapling": "Metal Particle Sapling",
+	"item.qdc_quantum_farming_2.quantum_gem_sapling": "Gem Particle Sapling",
+	"item.qdc_quantum_farming_2.quantum_enchanted_sapling": "Enchanted Particle Sapling",
+	"item.qdc_quantum_farming_2.quantum_potion_sapling": "Potion Particle Sapling",
+	
+	"block.qdc_quantum_farming_2.quantum_nature_sapling": "Nature Particle Sapling",
+	"block.qdc_quantum_farming_2.quantum_food_sapling": "Food Particle Sapling",
+	"block.qdc_quantum_farming_2.quantum_metal_sapling": "Metal Particle Sapling",
+	"block.qdc_quantum_farming_2.quantum_gem_sapling": "Gem Particle Sapling",
+	"block.qdc_quantum_farming_2.quantum_enchanted_sapling": "Enchanted Particle Sapling",
+	"block.qdc_quantum_farming_2.quantum_potion_sapling": "Potion Particle Sapling",
+
+	"item.qdc_quantum_farming_2.machine_crop_planter": "Crop Planter MK2",
+	"item.qdc_quantum_farming_2.machine_crop_harvester": "Crop Harvester MK2",
+	"item.qdc_quantum_farming_2.machine_tree_planter": "Tree Planter MK2",
+	"item.qdc_quantum_farming_2.machine_tree_harvester": "Tree Harvester MK2",
+	
+	"block.qdc_quantum_farming_2.machine_crop_planter": "Crop Planter MK2",
+	"block.qdc_quantum_farming_2.machine_crop_harvester": "Crop Harvester MK2",
+	"block.qdc_quantum_farming_2.machine_tree_planter": "Tree Planter MK2",
+	"block.qdc_quantum_farming_2.machine_tree_harvester": "Tree Harvester MK2"
+}
